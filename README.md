@@ -1,1 +1,2 @@
-Solutions of all exercise of Balagurusamy Java
+Solutions of all exercises of Balagurusamy Java
+Programming exercises of Balagurusamy Java
